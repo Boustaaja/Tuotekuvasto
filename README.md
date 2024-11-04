@@ -14,7 +14,7 @@ Nämä osat työskentelevät yhdessä datan, käyttöliittymän ja vuorovaikutus
 # View:
 - Vastaa käyttöliittymästä
 - Käyttäjä näkee ja syöttää dataa
-- Esittää ekäyttäjälle Controllerilta saadun datan
+- Esittää käyttäjälle Controllerilta saadun datan
 - Tarjoaa käyttäjälle käyttöliittymän vuorovaikutukseen sovelluksen kanssa
 - Tyypillisesti Razor-näkymä(.cshtml)
 - Ei sisällä sovelluslogiikkaa
