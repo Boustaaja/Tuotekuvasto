@@ -12,7 +12,7 @@ Nämä osat työskentelevät yhdessä datan, käyttöliittymän ja vuorovaikutus
 - Sovelluslogiikan toteutus, laskenta, ehdot
 
 # View:
-- Vastaa käyttökliittymästä
+- Vastaa käyttöliittymästä
 - Käyttäjä näkee ja syöttää dataa
 - Esittää ekäyttäjälle Controllerilta saadun datan
 - Tarjoaa käyttäjälle käyttöliittymän vuorovaikutukseen sovelluksen kanssa
